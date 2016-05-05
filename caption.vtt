@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:07.000
+Start your new project from the menu on the left 
+
+2
+00:00:08.000 --> 00:00:14.000
+There are standard HTML5 and other code base to choose from
+
+3
+00:00:15.000 --> 00:00:20.000
+Let's start with something nice and simple, like Hello World demo
+
+4
+00:00:21.000 --> 00:00:27.000
+Click on the continuous button and give your project a name and click Create
+
+5
+00:00:28.000 --> 00:00:36.000
+After the xdk build your copy of the project you were presented with a code of a demo index file you have chose.
